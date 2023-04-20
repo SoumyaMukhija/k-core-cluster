@@ -1,4 +1,4 @@
-# k-core-cluser
+# k-core-cluster
 
 Created an implementation of the
 k-core cluster algorithm.
