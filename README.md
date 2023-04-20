@@ -9,4 +9,7 @@ components left after all vertices of degrees < k are removed from the graph. We
 iteratively removing vertices until no vertex with a degree < k is left. Each node in the remaining
 graph has at least k neighbors within the subset.
 Every graph has a unique k-core. In the implementation proposed in this report, we have
-generated the largest subgraph possible with each node having k or more than k degrees
+generated the largest subgraph possible with each node having k or more than k degrees.
+
+
+The bit-sequence taken at the end is random. 
